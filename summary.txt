@@ -1,0 +1,14 @@
+Day 1 of the 100 Days of Code Challenge:
+
+=> Solved 4 coding problems on CodeChef, focusing on arrays, strings, loops, and basic if-else statements.
+   1. Prolang - https://www.codechef.com/problems/PROGLANG
+   2. AppleOrange - https://www.codechef.com/problems/APPLEORANGE
+   3. Encoding Message - https://www.codechef.com/problems/ENCMSG
+   4. Easy Speak - https://www.codechef.com/problems/EZSPEAK
+   
+=> Explored the concept of vectors and deepened understanding of arrays through College Walah's YouTube tutorials.
+   link to the tutorial ->
+   arrays - https://youtu.be/afoJyiiN1Pw
+   vectors - https://youtu.be/-J6ZKSuaVds
+   
+=> Excited to continue learning and improving coding skills over the next 99 days! 💻🚀 #100DaysOfCode #CodingJourney
