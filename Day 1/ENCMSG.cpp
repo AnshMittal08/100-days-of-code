@@ -1,3 +1,5 @@
+//link to the problem - https://www.codechef.com/problems/ENCMSG
+
 #include <bits/stdc++.h>
 using namespace std;
 
