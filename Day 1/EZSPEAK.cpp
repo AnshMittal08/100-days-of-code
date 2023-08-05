@@ -1,3 +1,5 @@
+//link to the problem - https://www.codechef.com/problems/EZSPEAK
+
 #include <iostream>
 using namespace std;
 
