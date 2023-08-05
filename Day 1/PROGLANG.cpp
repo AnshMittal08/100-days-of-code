@@ -1,3 +1,5 @@
+//link to the problem - https://www.codechef.com/problems/PROGLANG
+
 #include <iostream>
 using namespace std;
 
