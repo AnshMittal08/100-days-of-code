@@ -10,5 +10,9 @@ Day 1 of the 100 Days of Code Challenge:
    link to the tutorial ->
    arrays - https://youtu.be/afoJyiiN1Pw
    vectors - https://youtu.be/-J6ZKSuaVds
-   
+
+=> I have learnt about for each loop and how it can be useful in writing code fast and efficiently.
+   Moreover I learn about the concept of vector and how it can be more useful than arrays as they store data dynamically. Learn more of use of its functions like 
+   size(), resize(), insert(), pushback(), clear() etc. and attempted some basic code problems related to vectors.
+
 => Excited to continue learning and improving coding skills over the next 99 days! 💻🚀 #100DaysOfCode #CodingJourney
