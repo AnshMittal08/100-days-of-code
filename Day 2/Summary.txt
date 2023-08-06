@@ -1,0 +1,14 @@
+Day 1 of the 100 Days of Code Challenge:
+
+=> Solved 4 coding problems on CodeChef, focusing on arrays, strings, loops, and basic if-else statements.
+   1. AIRLINE - https://www.codechef.com/problems/AIRLINE
+   2. CHEFARRP - https://www.codechef.com/problems/CHEFARRP
+   
+=> Explored the problem solving strategy through College Walah's YouTube tutorials.
+   link to the tutorial ->
+   Target Sum Problem
+
+=> I also dedicated time to learning about target sum problems involving arrays and vectors.  
+   I explored various strategies to approach these problems and attempted to implement them on my own.
+
+=> Excited to continue learning and improving coding skills over the next 98 days! 💻🚀 #100DaysOfCode #CodingJourney
