@@ -1,6 +1,6 @@
 Day 2 of the 100 Days of Code Challenge:
 
-=> Solved 4 coding problems on CodeChef, focusing on arrays, strings, loops, and basic if-else statements.
+=> Solved 2 coding problems on CodeChef, focusing on arrays, vectors, loops, and basic if-else statements.
    1. AIRLINE - https://www.codechef.com/problems/AIRLINE
    2. CHEFARRP - https://www.codechef.com/problems/CHEFARRP
    
