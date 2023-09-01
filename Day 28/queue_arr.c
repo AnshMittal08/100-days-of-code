@@ -107,7 +107,7 @@ int main() {
             case 1: {
                 printf("enter element to be inserted:\n");
                 int item;
-                printf("%d",&item);
+                scanf("%d",&item);
                 enqueue(item);
                 break;
             }
