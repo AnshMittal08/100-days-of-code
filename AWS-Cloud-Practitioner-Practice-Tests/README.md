@@ -19,6 +19,24 @@ mirror the official exam's domain weighting:
 | Practice Test 2 | [Practice-Test-2-Questions.md](Practice-Test-2-Questions.md) | [Practice-Test-2-Answers.md](Practice-Test-2-Answers.md) |
 | Practice Test 3 | [Practice-Test-3-Questions.md](Practice-Test-3-Questions.md) | [Practice-Test-3-Answers.md](Practice-Test-3-Answers.md) |
 
+## Interactive mock exam (recommended)
+
+Prefer clicking over reading tables? Open [`mock-test.html`](mock-test.html)
+in any browser — it's a single self-contained file, no server or install
+required (download it and double-click, or open it directly from a local
+clone). It turns the three tests above into a real mock-exam UI:
+
+- **Exam Mode** — 90-minute countdown timer, answers hidden until you submit,
+  a jump-to-any-question answer sheet, and flag-for-review — same shape as
+  test day.
+- **Practice Mode** — untimed, with instant right/wrong feedback and the
+  explanation shown the moment you answer each question.
+- A results screen with your overall score, a pass/fail call against the 72%
+  benchmark, a score breakdown by domain, and a full question-by-question
+  review (filterable to just the ones you missed or flagged).
+- Progress autosaves to your browser's local storage, so closing the tab
+  mid-attempt and picking it back up later just works.
+
 ## How to use these tests
 
 1. Attempt a full test in one sitting (aim for ~90 minutes, same as the real
